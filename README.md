@@ -33,7 +33,6 @@ https://cloudysky1-diamondpriceprediction2-app-osczoo.streamlit.app/
 - 📁 Modular & production-ready project structure  
 - 🧠 Model saved using pickle in `artifacts/`
 
----
 
-## 📂 Project Structure
+
 
